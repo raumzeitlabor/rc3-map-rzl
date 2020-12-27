@@ -50,7 +50,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-south.json#start_raumzeitlabor}"
+                 "value":"{<lobby>\/maps\/erfas-south.json#start_raumzeitlabor}"
                 }],
          "type":"tilelayer",
          "visible":true,
