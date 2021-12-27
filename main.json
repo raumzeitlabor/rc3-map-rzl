@@ -262,6 +262,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -286,6 +292,12 @@
          "imagewidth":768,
          "margin":0,
          "name":"RZLMusikwohnzimmer",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(c) by flederrattie"
+                }],
          "spacing":0,
          "tilecount":216,
          "tileheight":32,
@@ -509,6 +521,12 @@
          "imagewidth":640,
          "margin":0,
          "name":"RZLBackground",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(c) by flederrattie"
+                }],
          "spacing":0,
          "tilecount":180,
          "tileheight":32,
@@ -523,6 +541,12 @@
          "imagewidth":704,
          "margin":0,
          "name":"aquarium",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(c) by flederrattie"
+                }],
          "spacing":0,
          "tilecount":44,
          "tileheight":32,
@@ -730,6 +754,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"DJAsthma",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(c) by flederrattie"
+                }],
          "spacing":0,
          "tilecount":3,
          "tileheight":32,
@@ -761,6 +791,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"tiles_v1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(c) by DJasthma"
+                }],
          "spacing":0,
          "tilecount":72,
          "tileheight":32,
@@ -920,6 +956,12 @@
          "imagewidth":2560,
          "margin":0,
          "name":"lichterkette",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(c) by flederrattie"
+                }],
          "spacing":0,
          "tilecount":160,
          "tileheight":32,
@@ -1607,6 +1649,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"piranha_plant",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(c) by flederrattie"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -1621,6 +1669,12 @@
          "imagewidth":1728,
          "margin":0,
          "name":"Scanner1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0 Tabascoeye"
+                }],
          "spacing":0,
          "tilecount":108,
          "tileheight":32,
@@ -2084,6 +2138,12 @@
          "imagewidth":1728,
          "margin":0,
          "name":"Scanner2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0 TabascoEye"
+                }],
          "spacing":0,
          "tilecount":108,
          "tileheight":32,
@@ -2547,6 +2607,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"LED-Schlauch_test",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0 TabascoEye"
+                }],
          "spacing":0,
          "tilecount":28,
          "tileheight":32,
@@ -2690,6 +2756,12 @@
          "imagewidth":416,
          "margin":0,
          "name":"RZLEntrance",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(c) by flederrattie"
+                }],
          "spacing":0,
          "tilecount":78,
          "tileheight":32,
@@ -2704,6 +2776,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"ExitSingle",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -2718,6 +2796,12 @@
          "imagewidth":461,
          "margin":0,
          "name":"RZLMTV",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(c) by flederrattie"
+                }],
          "spacing":0,
          "tilecount":140,
          "tileheight":32,
